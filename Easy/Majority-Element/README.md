@@ -19,9 +19,3 @@ Example 2:
 Input: nums = [2,2,1,1,1,2,2]
 
 Output: 2
-
-👉 Regexp Basics - is it a vowel? (https://www.codewars.com/kata/567bed99ee3451292c000025/train/javascript)
-
-👉 Github (https://github.com/AbdujalilovIsmoil/codewars-problems/tree/main/7-kyu/Regexp%20Basics%20-%20is%20it%20a%20vowel)
-
-👉 @leetcode_issues
